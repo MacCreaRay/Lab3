@@ -1,0 +1,6 @@
+Testing gitignore file
+
+Did a commit and Private not added
+
+Trying some more changes to verify the ignore fil is working 100%
+
